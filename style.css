@@ -33,6 +33,11 @@ body, #slider, .wrap, .slide-content{
     background-image: url('images/image4.jpeg');
 }
 
+.slide5{
+    background-image: url('images/image5.jpg');
+}
+
+
 .slide-content{
     display: flex;
     flex-direction: column;
